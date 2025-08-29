@@ -6,7 +6,6 @@ A **REST API** built with **FastAPI** to process arrays and return structured re
 **Author:** Anshika Srivastava  
 **Email:** anshika.srivastava2022@vitstudent.ac.in  
 **Roll Number:** 22BCT0072
-````
 ---
 
 ## Features
