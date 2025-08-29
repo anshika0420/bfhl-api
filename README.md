@@ -10,7 +10,7 @@ A **REST API** built with **FastAPI** to process arrays and return structured re
 **Roll Number:** 22BCT0072
 
 ---
-<img width="587" height="140" alt="Image" src="https://github.com/user-attachments/assets/bd5958fa-b1d9-4006-8164-7a6400456bf1" />
+
 ## Features
 
 - **POST /bfhl** – Accepts an array and returns:
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 # Run server
 uvicorn main:app --reload
 ````
-
+<img width="587" height="140" alt="Image" src="https://github.com/user-attachments/assets/bd5958fa-b1d9-4006-8164-7a6400456bf1" />
 **Access Swagger UI:**
 
 ```
