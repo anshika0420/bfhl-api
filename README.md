@@ -194,9 +194,8 @@ Change these if needed for other users or submissions.
 ---
 
 ## License
+```
 Educational use only. © 2025 Anshika Srivastava
-
-
 
 ```
 
