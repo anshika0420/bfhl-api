@@ -1,5 +1,4 @@
 markdown
-<img width="686" height="284" alt="Image" src="https://github.com/user-attachments/assets/d354ed95-f77e-42d3-ae9b-b773cae97da2" />
 # BFHL API – Full Stack Project
 
 A **REST API** built with **FastAPI** to process arrays and return structured results, including numbers, alphabets, special characters, sums, and concatenated strings. Hosted on **Railway** with live access.
@@ -9,6 +8,8 @@ Email: anshika.srivastava2022@vitstudent.ac.in
 Roll Number: 22BCT0072
 ````
 ---
+
+<img width="686" height="284" alt="Image" src="https://github.com/user-attachments/assets/d354ed95-f77e-42d3-ae9b-b773cae97da2" />
 
 ## Features
 
