@@ -10,7 +10,7 @@ A **REST API** built with **FastAPI** to process arrays and return structured re
 **Roll Number:** 22BCT0072
 
 ---
-[<img width="1373" height="465" alt="image" src="https://github.com/user-attachments/assets/4b7efa8c-cdf6-4e13-ae39-bda3e2e6c1e2" />](https://github.com/anshika0420/bfhl-api/blob/main/1.png?raw=true)
+![image alt](https://github.com/anshika0420/bfhl-api/blob/8b7f16827f150bda9d66a8f1202f1b5211ee7541/1.png)
 
 
 ## Features
