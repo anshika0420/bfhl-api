@@ -1,4 +1,5 @@
 markdown
+<img width="686" height="284" alt="Image" src="https://github.com/user-attachments/assets/d354ed95-f77e-42d3-ae9b-b773cae97da2" />
 # BFHL API – Full Stack Project
 
 A **REST API** built with **FastAPI** to process arrays and return structured results, including numbers, alphabets, special characters, sums, and concatenated strings. Hosted on **Railway** with live access.
@@ -42,7 +43,6 @@ Roll Number: 22BCT0072
 **Swagger UI:**  
 <img width="239" height="334" alt="Image" src="https://github.com/user-attachments/assets/e2e66b95-4392-4051-b864-279e7e1a7c68" />
 
-<img width="686" height="284" alt="Image" src="https://github.com/user-attachments/assets/d354ed95-f77e-42d3-ae9b-b773cae97da2" />
 
 
 **Railway Deployment:**  
