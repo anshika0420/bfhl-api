@@ -10,9 +10,7 @@ A **REST API** built with **FastAPI** to process arrays and return structured re
 **Roll Number:** 22BCT0072
 
 ---
-![image alt](https://github.com/anshika0420/bfhl-api/blob/8b7f16827f150bda9d66a8f1202f1b5211ee7541/1.png)
-
-
+![image alt](https://github.com/anshika0420/bfhl-api/blob/0dc3ffb36a3cd1d109b5e9b63102eff5926055a9/1.png)
 ## Features
 
 - **POST /bfhl** – Accepts an array and returns:
