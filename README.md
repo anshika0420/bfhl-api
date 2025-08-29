@@ -10,7 +10,7 @@ A **REST API** built with **FastAPI** to process arrays and return structured re
 **Roll Number:** 22BCT0072
 
 ---
-![image alt](https://github.com/anshika0420/bfhl-api/blob/0dc3ffb36a3cd1d109b5e9b63102eff5926055a9/1.png?raw=true)
+<img width="587" height="140" alt="Image" src="https://github.com/user-attachments/assets/bd5958fa-b1d9-4006-8164-7a6400456bf1" />
 ## Features
 
 - **POST /bfhl** – Accepts an array and returns:
@@ -42,15 +42,15 @@ A **REST API** built with **FastAPI** to process arrays and return structured re
 ## Screenshots
 
 **Swagger UI:**  
-<img width="1884" height="754" alt="image" src="https://github.com/user-attachments/assets/b936ea42-5550-4326-9fad-f6fdb1f4dc6d" />
+<img width="239" height="334" alt="Image" src="https://github.com/user-attachments/assets/e2e66b95-4392-4051-b864-279e7e1a7c68" />
 
-<img width="1226" height="794" alt="image" src="https://github.com/user-attachments/assets/fdee9749-1855-49bf-8369-10a8b6132fd5" />
+<img width="686" height="284" alt="Image" src="https://github.com/user-attachments/assets/d354ed95-f77e-42d3-ae9b-b773cae97da2" />
 
 
 **Railway Deployment:**  
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/4b0ba9d8-e3a9-4c32-a0fe-d3b652a22f09" />
 
-<img width="1129" height="489" alt="image" src="https://github.com/user-attachments/assets/739835c0-1f79-42b4-996b-3965758fec4b" />
+<img width="917" height="419" alt="Image" src="https://github.com/user-attachments/assets/1d3e0eef-1456-4752-ab1c-346994518771" />
 
 
 ---
