@@ -1,6 +1,4 @@
-Absolutely! Here’s a **ready-to-copy GitHub README** in proper Markdown format, with bullet points, code blocks, and image placeholders. You can just paste it into your `README.md` file.
-
-````markdown
+markdown
 # BFHL API – Full Stack Project
 
 A **REST API** built with **FastAPI** to process arrays and return structured results, including numbers, alphabets, special characters, sums, and concatenated strings. Hosted on **Railway** with live access.
