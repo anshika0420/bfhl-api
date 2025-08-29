@@ -13,7 +13,6 @@ A **REST API** built with **FastAPI** to process arrays and return structured re
 
 ## Features
 
-````
 - **POST /bfhl** – Accepts an array and returns:
   - `is_success` – Status of operation
   - `user_id` – Full name + DOB
@@ -28,7 +27,7 @@ A **REST API** built with **FastAPI** to process arrays and return structured re
 - **GET /bfhl** – Returns simple operation code for testing
 - Handles empty arrays gracefully
 - Returns numbers as strings as per assignment rules
-````
+
 ---
 
 ## Tech Stack
