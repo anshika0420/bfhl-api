@@ -78,6 +78,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ````
 <img width="587" height="140" alt="Image" src="https://github.com/user-attachments/assets/bd5958fa-b1d9-4006-8164-7a6400456bf1" />
+
+---
 **Access Swagger UI:**
 
 ```
